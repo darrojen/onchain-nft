@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#111827"/>
+  <circle cx="300" cy="240" r="130" fill="#f97316"/>
+
+  <circle cx="255" cy="220" r="18" fill="white"/>
+  <circle cx="345" cy="220" r="18" fill="white"/>
+
+  <circle cx="255" cy="220" r="7" fill="#111827"/>
+  <circle cx="345" cy="220" r="7" fill="#111827"/>
+
+  <path
+    d="M220 285 Q300 350 380 285"
+    stroke="white"
+    stroke-width="12"
+    fill="none"
+  />
+
+  <text
+    x="300"
+    y="470"
+    text-anchor="middle"
+    fill="white"
+    font-family="Arial"
+    font-size="38"
+  >
+    DARLINGTON ONCHAIN
+  </text>
+</svg>
