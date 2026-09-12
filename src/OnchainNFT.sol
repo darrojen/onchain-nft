@@ -4,9 +4,9 @@ pragma solidity ^0.8.24;
 // Repository: https://github.com/darrojen/onchain-nft.git
 // Commit: YOUR_COMMIT_HASH
 // Testnet: Celo Sepolia
-// Contract: https://celoscan.io/address/0x8e49861863C9d51E9127F83Efa52c69f21981902
-// Deployment transaction: https://celoscan.io/tx/0xdb2e0ed984c7d20396b9d71eb320dc1121cce0ea434b07a274492d1a479b95ab
-// Mint transaction: https://celoscan.io/tx/0xc62ab4609bfd93d1994f332bfb3e8e4119137e86aaf73a45da3a55cbff4d2393
+// Contract: https://sepolia.celoscan.io/address/0x8e49861863C9d51E9127F83Efa52c69f21981902
+// Deployment transaction: https://sepolia.celoscan.io/tx/0xdb2e0ed984c7d20396b9d71eb320dc1121cce0ea434b07a274492d1a479b95ab
+// Mint transaction: https://sepolia.celoscan.io/tx/0xc62ab4609bfd93d1994f332bfb3e8e4119137e86aaf73a45da3a55cbff4d2393
 
 contract Base64 {
     string internal constant TABLE =
